@@ -1,8 +1,8 @@
 {
   "min_yoe": 0,
-  "max_yoe": 2,
+  "max_yoe": 3,
   "location": "Israel",
-  "include_student_and_graduate": true,
+  "include_student_and_graduate": False,
   "target_roles": [
     "Software Development",
     "Software Engineering",
