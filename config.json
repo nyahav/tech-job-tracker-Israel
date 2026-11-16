@@ -5,14 +5,12 @@
   "include_student_and_graduate": true,
   "target_roles": [
     "Software Development",
+    "Software Engineering",
     "Backend",
     "Frontend",
     "Fullstack",
     "Mobile",
-    "AI/ML",
-    "Data Science",
     "Algorithms",
-    "MLOps",
     "Software Automation"
   ],
   "excluded_roles": [
